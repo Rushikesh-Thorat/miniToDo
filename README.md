@@ -7,6 +7,7 @@ A simple To-Do List web application that allows users to add, delete, and mark t
 ### Run Locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Rushikesh-Thorat/miniToDo.git
 
+### Screenshot:
 ![To-Do List Screenshot](ss.png)
